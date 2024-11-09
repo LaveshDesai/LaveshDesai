@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavesh Eknath Desai</h1>
-<h3 align="center">I'm a passionate student currently pursuing a Bachelor's degree in Engineering (B.Tech-IT). AI/ML Enthusiast | 2+ Years Experience in Database Management with Excel & Google Sheets | 1+ Year in Documentation Leadership | Python | AI | Management</h3>
+<h3 align="center">I'm a passionate student currently pursuing a Bachelor's degree in Engineering (B.Tech-IT). \nAI/ML Enthusiast | 2+ Years Experience in Database Management with Excel & Google Sheets | 1+ Year in Documentation Leadership | Python | AI | Management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laveshdesai&label=Profile%20views&color=0e75b6&style=flat" alt="laveshdesai" /> </p>
 
