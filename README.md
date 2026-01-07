@@ -64,39 +64,29 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <!-- Programming & Core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       width="40" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-       width="40" height="40" title="PostgreSQL"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" title="PostgreSQL"/>
+  
   <!-- Data Analytics Libraries -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-       width="40" height="40" title="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
-       width="40" height="40" title="Matplotlib"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
-       width="40" height="40" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Seaborn_logo.svg"
-       width="40" height="40" title="Seaborn"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Seaborn_logo.svg" width="40" height="40" title="Seaborn"/>
+  
   <!-- ML / DL -->
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-       width="40" height="40" title="TensorFlow"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-       width="40" height="40" title="PyTorch"/>
-
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" title="TensorFlow"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" title="PyTorch"/>
+  
   <!-- BI & Spreadsheet Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg"
-       width="40" height="40" title="Google Sheets"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg"
-       width="40" height="40" title="Microsoft Excel"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg"
-       width="40" height="40" title="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" width="40" height="40" title="Google Sheets"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="40" height="40" title="Microsoft Excel"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40" title="Power BI"/>
 </p>
+
+
 
 
 
