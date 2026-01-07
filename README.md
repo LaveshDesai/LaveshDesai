@@ -59,10 +59,6 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 
 ---
 
-## 💬 Ask Me About
-**Python, Machine Learning, Data Analysis, Computer Vision, Google Sheets, Excel, OCR, NLP**
-
----
 
 ## 📫 Connect With Me
 <p align="left">
@@ -80,6 +76,7 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 ---
 
 ## 🛠️ Languages & Tools
+
 <p align="left">
   <!-- Programming & Core -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -91,17 +88,19 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
 
+  <!-- Seaborn (Added) -->
+ <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-blue?style=flat&logo=python" height="30"/>
+
   <!-- ML / DL -->
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
 
   <!-- BI & Spreadsheet Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/google-sheets.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="40" height="40"/>
-
-  <!-- Power BI -->
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40"/>
 </p>
+
 
 
 ---
