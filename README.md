@@ -5,11 +5,6 @@ MSc Computing (Artificial Intelligence) Student @ DCU (Sep 2025 Intake) <br/>
 Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | Analytics
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=laveshdesai&label=Profile%20views&color=0e75b6&style=flat" alt="laveshdesai" />
-</p>
----
-
 ## 👨‍💻 Profile Summary
 - I am a **Computing (AI) postgraduate student at Dublin City University** with strong interest in **Data Analytics, AI/ML**  
 - Hands-on experience with **Python, Computer Vision, OCR, NLP, and data-driven problem solving**  
