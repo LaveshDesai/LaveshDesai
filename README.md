@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lavesh Eknath Desai</h1>
 
 <h3 align="center">
-MSc Computing (Artificial Intelligence) Student @ DCU (Sep 2025 Intake) <br/>
+MSc Computing (Artificial Intelligence) Student @ DCU (Sep 2025) <br/>
 Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | Analytics
 </h3>
 
