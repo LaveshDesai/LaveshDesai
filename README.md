@@ -8,13 +8,6 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=laveshdesai&label=Profile%20views&color=0e75b6&style=flat" alt="laveshdesai" />
 </p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=laveshdesai&theme=onedark" alt="laveshdesai" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Profile Summary
@@ -88,26 +81,28 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 
 ## 🛠️ Languages & Tools
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <!-- Programming & Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+
+  <!-- Data Analytics Libraries -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+
+  <!-- ML / DL -->
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+
+  <!-- BI & Spreadsheet Tools -->
+  <img src="https://cdn.worldvectorlogo.com/logos/google-sheets.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="40" height="40"/>
+
+  <!-- Power BI -->
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40"/>
 </p>
+
 
 ---
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laveshdesai&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=laveshdesai&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laveshdesai" />
-</p>
