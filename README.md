@@ -43,7 +43,7 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 - **Student Council Documentation Head (1 Year)** – Prepared official reports and coordinated college events  
 - **Data Management Lead(MIS) (2 years) – Alegria: Festival Of Joy (Biggest College Event)**  
   - Managed participant and pass data using **Google Sheets & Excel**  
-  - Built **connected sheets using advanced formulas ** for real-time tracking  
+  - Built **connected sheets using advanced formulas** for real-time tracking  
 
 ---
 
