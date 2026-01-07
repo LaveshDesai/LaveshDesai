@@ -52,14 +52,6 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Machine Learning & Deep Learning  
-- Model deployment & APIs (Flask)  
-- Data-driven system design
-
----
-
-
 ## 📫 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/lavesh-desai-488918337" target="_blank">
