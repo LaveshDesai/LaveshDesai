@@ -68,7 +68,7 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 <a href="https://instagram.com/lavesh_._desai" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/c/@lollifeoflavesh" target="_blank">
+<a href="https://www.youtube.com/@LoLLifeofLavesh" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
 </a>
 </p>
