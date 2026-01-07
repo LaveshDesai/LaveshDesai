@@ -19,7 +19,7 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔹 SmartPremium – Health Insurance Risk Prediction
 - Built a **wearable-data-based health risk stratification system** using Fitbit metrics  
