@@ -21,6 +21,14 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 
 ## 🚀 Projects
 
+### 🔹 Huawei Tech Arena Hackathon Project | Top 10 / 150+ Teams
+- Developed an **LLM-powered question answering system** using **Hugging Face Transformers, Qwen LLM, and PyTorch**  
+- Implemented **Retrieval-Augmented Generation (RAG)** using **BM25** for context retrieval from a custom knowledge base  
+- Applied **prompt engineering** & **few-shot structured inputs** to improve answer accuracy and consistency  
+- Tuned **generation hyperparameters** (temperature, top-k, top-p) for optimal responses  
+- **Collaborated effectively in a team** to deliver the solution within the given time
+
+
 ### 🔹 SmartPremium – Health Insurance Risk Prediction
 - Built a **wearable-data-based health risk stratification system** using Fitbit metrics  
 - Applied **K-Means clustering**, **Logistic Regression**, and **Random Forest**  
