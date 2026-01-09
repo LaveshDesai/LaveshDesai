@@ -26,7 +26,7 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 - Implemented **Retrieval-Augmented Generation (RAG)** using **BM25** for context retrieval from a custom knowledge base  
 - Applied **prompt engineering** & **few-shot structured inputs** to improve answer accuracy and consistency  
 - Tuned **generation hyperparameters** (temperature, top-k, top-p) for optimal responses  
-- **Collaborated effectively in a team** to deliver the solution within the given time
+- **Led the team end-to-end to deliver the best solution within the given time**
 
 
 ### 🔹 SmartPremium – Health Insurance Risk Prediction
