@@ -2,7 +2,7 @@
 
 <h3 align="center">
 MSc Computing (Artificial Intelligence) Student @ DCU <br/>
-Aspiring Software Engineer | AI/ML | Data Analytics | Computer Vision | Python
+Aspiring AI Engineer | AI/ML | Data Analytics | Computer Vision | Python
 </h3>
 
 ---
