@@ -60,7 +60,7 @@ Aspiring AI Engineer | Python | AI/ML | NLP | Computer Vision | Data Analyticss
 
 ## 📄 Research & Publications
 
-### **AI-Driven Smart Contract Generation and Risk Management using LLM RAG and Blockchain** *(Ongoing)*
+### **AI-Driven Smart Contract Generation and Risk Management using LLM RAG and Blockchain** *(Ongoing LR)*
 - Researching **LLM-powered smart contract generation** using **RAG**
 - Integrating **blockchain validation** to reduce **security vulnerabilities and financial risks**
 - Focused on **risk analysis, access control, and automation** in decentralized systems
