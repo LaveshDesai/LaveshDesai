@@ -2,7 +2,7 @@
 
 <h3 align="center">
 MSc Computing (Artificial Intelligence) Student @ DCU <br/>
-Aspiring *AI Engineer* | *Python* | *AI/ML* | *NLP* | *Computer Vision* | *Data Analytics*
+Aspiring AI Engineer | Python | AI/ML | NLP | Computer Vision | Data Analyticss
 </h3>
 
 ---
@@ -22,7 +22,7 @@ Aspiring *AI Engineer* | *Python* | *AI/ML* | *NLP* | *Computer Vision* | *Data 
 - Built and evaluated **OCR & object detection models**, achieving **83.2% detection accuracy** across **5+ real-world datasets**
 - Applied **NLP techniques** for **text cleaning, tokenization, and evaluation**, improving **data quality by 25.7%**
 - Led a team of interns, coordinating **task management**, **code reviews**, and **presentations to senior engineers**
-- **Certificate** ![Certificate](https://drive.google.com/file/d/1c9LUSaCkds1nXwxqAXmp1gl1iVtrEyS6/view?usp=drive_link)
+- **Certificate:** [![📄 Certificate](https://img.shields.io/badge/Certificate-AI%20Intern-blue)](https://drive.google.com/file/d/1c9LUSaCkds1nXwxqAXmp1gl1iVtrEyS6/view?usp=drive_link)
 
 ---
 
@@ -53,7 +53,7 @@ Aspiring *AI Engineer* | *Python* | *AI/ML* | *NLP* | *Computer Vision* | *Data 
 - Trained **Random Forest, XGBoost, LSTM (DistilBERT embeddings)**
 - Classified market trends as **Bullish, Bearish, Neutral** with **71% prediction accuracy**
 - **JETIR Publication:** JETIR (*Journal of Emerging Technologies and Innovative Research*) publishes **over 1,000+ papers/month** across multiple technology sections.  
-🔗 [Publication Link](http://www.jetir.org/view?paper=JETIR2504857)  
+
 
 
 ---
@@ -64,7 +64,15 @@ Aspiring *AI Engineer* | *Python* | *AI/ML* | *NLP* | *Computer Vision* | *Data 
 - Researching **LLM-powered smart contract generation** using **RAG**
 - Integrating **blockchain validation** to reduce **security vulnerabilities and financial risks**
 - Focused on **risk analysis, access control, and automation** in decentralized systems
-- 🔗 [Research Manuscript](https://gitlab.computing.dcu.ie/lavesheknath.desai2/2026-mcm-laveshd/-/blob/master/README.md?ref_type=heads&plain=0)  
+- 🔗 [Research Manuscript](https://gitlab.computing.dcu.ie/lavesheknath.desai2/2026-mcm-laveshd/-/blob/master/README.md?ref_type=heads&plain=0)
+
+### **News Headline Driven Stock Sentiment Analysis**
+- Integrated **NY Times (Kaggle)** and **5 years of WSJ data** (**12,500+ records, 25 variables**)
+- Applied **sentiment extraction** with **VADER, TextBlob, NRCLex**, combined with **feature engineering**
+- Trained **Random Forest, XGBoost, LSTM (DistilBERT embeddings)**
+- Classified market trends as **Bullish, Bearish, Neutral** with **71% prediction accuracy**
+- **JETIR Publication:** JETIR (*Journal of Emerging Technologies and Innovative Research*) publishes **over 1,000+ papers/month** across multiple technology sections.  
+🔗 [Publication Link](http://www.jetir.org/view?paper=JETIR2504857)  
 ---
 
 ## 🏆 Competitions
@@ -77,7 +85,7 @@ Huawei Tech Arena Hackathon, Dublin, Ireland | Top 10 / 500+ Teams
 - Applied **prompt engineering** & **few-shot inputs** for higher answer accuracy
 - Tuned **generation hyperparameters** (temperature, top-k, top-p, max tokens)
 - **Skills:** LLM · RAG · Prompt Engineering · Python  
-- **Certificate** ![Hackathon Badge](https://drive.google.com/file/d/1Prt5DWm1uSN9T4tErfWcEZ8x5Bz2hd68/view?usp=drive_link)
+- ****Certificate:** [![🏆 Hackathon Badge](https://img.shields.io/badge/Hackathon-Top%2010-brightgreen)](https://drive.google.com/file/d/1Prt5DWm1uSN9T4tErfWcEZ8x5Bz2hd68/view?usp=drive_link)
 
 ### **Aavishkar: Inter-Collegiate / Institute / Department Research Convention**  
 University of Mumbai | *Nov 2024 – Dec 2024*
@@ -85,7 +93,8 @@ University of Mumbai | *Nov 2024 – Dec 2024*
 - Represented **News Headline Driven Stock Sentiment Analysis** from **college to zonal round**
 - Competed among **55+ teams** at University of Mumbai  
 - Selected from **college-level to zonal round**, presenting in front of **senior engineers**
-- **Certificate** ![Aavishkar: Certificate of Participation](https://drive.google.com/file/d/1CVw3_PxM2Hf0BQ9jbYUm3ZKWk_fncFgn/view?usp=drive_link)
+- **Certificate:** [![🎓 Aavishkar: University of Mumbai ](https://img.shields.io/badge/Certificate-Participation-blue)](https://drive.google.com/file/d/1CVw3_PxM2Hf0BQ9jbYUm3ZKWk_fncFgn/view?usp=drive_link)
+
 
 ---
 
@@ -95,13 +104,13 @@ University of Mumbai | *Nov 2024 – Dec 2024*
 - Managed **official documentation & reporting** for college events
 - Coordinated with **cross-functional teams** under strict deadlines
 - Strengthened **organisation, planning, & communication skills**
-- **Certificates** ![Student_Council](https://drive.google.com/file/d/18AnQoVlCOOEhcZ1GvUUoQc5akZc7mHjO/view?usp=drive_link)
-
+- **Certificate:** [![📄 Student Council](https://img.shields.io/badge/Certificate-Documentation-orange)](https://drive.google.com/file/d/18AnQoVlCOOEhcZ1GvUUoQc5akZc7mHjO/view?usp=drive_link)
+    
 ### **Data Management Lead (MIS)** – Alegria: Festival of Joy | *2022 – 2024*
 - Managed **large-scale event data** using **Excel & Google Sheets**
 - Built **automated tracking systems** for **real-time monitoring**
 - Supported **event operations** through **data-driven planning**
-- **Certificate** ![Algeria Management Information System Head](https://drive.google.com/file/d/1AACxi96qRHZF7e_o4SL6E8_A6QiU_GxJ/view?usp=drive_link)
+- **Certificate:** [![📄 MIS Lead](https://img.shields.io/badge/Certificate-DataManagement-green)](https://drive.google.com/file/d/1AACxi96qRHZF7e_o4SL6E8_A6QiU_GxJ/view?usp=drive_link)
 
 ---
 
