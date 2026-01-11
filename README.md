@@ -27,7 +27,7 @@ Aspiring Software Engineer | AI/ML | Data Analytics | Computer Vision | Python
 
 ## 🚀 Projects
 
-### **Huawei Tech Arena Hackathon – LLM Question Answering System** | *Top 10 / 150+ Teams*
+### **Huawei Tech Arena Hackathon – LLM Question Answering System** | *Top 10 / 500+ Teams*
 - Built an **LLM-powered question answering system** using **Qwen LLM**, **Hugging Face Transformers**, and **PyTorch**
 - Implemented **Retrieval-Augmented Generation (RAG)** with **BM25** over a **custom knowledge base**
 - Improved response quality using **prompt engineering** and **few-shot learning**
@@ -55,10 +55,10 @@ Aspiring Software Engineer | AI/ML | Data Analytics | Computer Vision | Python
 
 ## 🛠️ Skills 
 
-**Programming:** Python, Java, JavaScript  
+**Programming:** Python  
 **AI / ML:** Machine Learning, NLP, Computer Vision, OCR, LLMs, RAG, Feature Engineering  
 **Data & Analytics:** Data Analytics, Data Visualization, Power BI, SQL, PostgreSQL  
-**Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch, Hugging Face  
+**Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch, Hugging Face , Scikit-learn.
 **Software Practices:** Version Control (**Git**), **Testing & Evaluation**, **CI/CD Basics**, API Integration  
 **Security Fundamentals:** Access Control, Vulnerability Awareness, Risk Concepts  
 **Professional Skills:** Problem Solving, Cross-Functional Collaboration, Team Leadership, Organisation & Planning, Time Management, Creativity, Continuous Learning  
