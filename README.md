@@ -87,7 +87,7 @@ Huawei Tech Arena Hackathon, Dublin, Ireland | Top 10 / 500+ Teams
 - Applied **prompt engineering** & **few-shot inputs** for higher answer accuracy
 - Tuned **generation hyperparameters** (temperature, top-k, top-p, max tokens)
 - **Skills:** LLM · RAG · Prompt Engineering · Python  
-- ****Certificate:** [![🏆 Hackathon Badge](https://img.shields.io/badge/Hackathon-Top%2010-brightgreen)](https://drive.google.com/file/d/1Prt5DWm1uSN9T4tErfWcEZ8x5Bz2hd68/view?usp=drive_link)
+- **Certificate:** [![🏆 Hackathon Badge](https://img.shields.io/badge/Hackathon-Top%2010-brightgreen)](https://drive.google.com/file/d/1Prt5DWm1uSN9T4tErfWcEZ8x5Bz2hd68/view?usp=drive_link)
 
 ### **Aavishkar: Inter-Collegiate / Institute / Department Research Convention**  
 University of Mumbai | *Nov 2024 – Dec 2024*
