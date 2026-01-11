@@ -13,9 +13,10 @@ Aspiring Software Engineer | Data & ML Enthusiast | Python | Computer Vision | A
 ---
 
 ## 🧠 Internship Experience
-- Worked on **Computer Vision projects** involving **document, face, and license plate detection**  
-- Built **OCR and NLP pipelines** for detection, extraction, and recognition of **native-language documents**  
-- Developed **end-to-end AI workflows** using Python for real-world data processing tasks  
+- Worked on **computer vision systems** for **document, face, and license plate detection & recognition**, supporting **identity verification** solutions for enterprise clients  
+- Developed and evaluated **OCR and object detection models**, including **ampoule detection**, achieving **83.2% detection accuracy** across **5+ real-world datasets**  
+- Applied **NLP techniques** for **text cleaning, tokenization, and evaluation**, improving **data quality by 25.3%** for downstream analytics and model performance  
+- Built **end-to-end AI pipelines** using **Python-based ML models**, and **led a team of interns**, coordinating tasks, reviews, and presentations with **senior engineers**
 
 ---
 
