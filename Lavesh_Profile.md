@@ -117,12 +117,12 @@ University of Mumbai | *Nov 2024 – Dec 2024*
 ## 🛠️ Skills
 
 **Programming:** 🐍 Python  
-**AI / ML:** 🤖 Machine Learning · NLP · Computer Vision · LLMs · RAG · Feature Engineering · Model Evaluation · Data Preprocessing · Model Evaluation 
+**AI / ML:** 🤖 Machine Learning · NLP · Computer Vision · LLMs · RAG · Feature Engineering · Model Evaluation · Data Preprocessing · Model Evaluation
 **Data & Analytics:** 📊 Data Analytics · Data Visualization · Power BI · SQL · PostgreSQL  
 **Libraries & Frameworks:** 📚 Pandas · NumPy · Matplotlib · Seaborn · TensorFlow · PyTorch · Hugging Face  
 **Software Practices:** ⚙️ Version Control (Git) · CI/CD Basics  
 **Security Fundamentals:** 🔒 Access Control · Vulnerability Awareness · Risk Concepts  
-**Professional Skills:** 🏆 Problem Solving · Cross-Functional Collaboration · Team Leadership · Organisation & Planning · Time Management · Creativity · Continuous Learning  
+**Professional Skills:** 🏆 Problem Solving · Team Leadership · Organisation & Planning · Time Management · Creativity · Continuous Learning  
 **Tools:** 🛠️ Excel · Google Sheets · Dashboard Design  
 
 ---
