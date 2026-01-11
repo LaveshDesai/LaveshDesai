@@ -2,16 +2,16 @@
 
 <h3 align="center">
 MSc Computing (Artificial Intelligence) Student @ DCU <br/>
-Aspiring AI Engineer | AI/ML | Data Analytics | Computer Vision | Python
+Aspiring AI Engineer | Python | AI/ML | NLP | Computer Vision | Data Analytics 
 </h3>
 
 ---
 
 ## 👨‍💻 Profile Summary
-- **Computing (Artificial Intelligence) postgraduate student** with a strong foundation in **Computer Engineering and Software Development**
-- Hands-on experience in **Python**, **AI/ML**, **NLP**, **Computer Vision**, **Data preprocessing** , **Data Analytics** , **Feature Engineering** and **Model Evaluation**.
-- Experienced in building **end-to-end AI pipelines**, applying **testing, evaluation, and version control**
-- Strong **problem-solving mindset**, excellent **collaboration skills**, and eagerness to learn in **fast-paced environments**
+- **Computing (Artificial Intelligence) postgraduate student** with a strong foundation in **Computer Engineering and AI/ML**
+- Hands-on experience in **Python**, **AI/ML**, **NLP**, **Computer Vision**, and **Data Analytics**, **Data Preprocessing**
+- Proven ability to build **end-to-end AI pipelines** including **detection, extraction, recognition, and prediction**
+- Strong **problem-solving mindset**, **ability to collaborate** , **strong communication and confident** and eagerness to learn in **fast-paced environments**
 
 ---
 
@@ -19,8 +19,8 @@ Aspiring AI Engineer | AI/ML | Data Analytics | Computer Vision | Python
 
 ### **AI Intern** – Bluechink Technologies Private Limited | *Jan 2025 – Mar 2025 (Remote)*
 - Worked on **computer vision systems** for **document, face, and license plate detection & recognition**, supporting **identity verification** solutions for enterprise clients  
-- Developed and evaluated **OCR and object detection models**, achieving **83.4% detection accuracy** across **5+ real-world datasets**  
-- Applied **NLP techniques** for **text cleaning, tokenization, and evaluation**, improving **data quality by 25.7%** for downstream analytics and model performance  
+- Developed and evaluated **OCR and object detection models**, achieving **83.2% detection accuracy** across **5+ real-world datasets**  
+- Applied **NLP techniques** for **text cleaning, tokenization, and evaluation**, improving **data quality by 25.7%** for downstream analytics  
 - Built **end-to-end AI pipelines** using **Python-based ML models**, and **led a team of interns**, coordinating tasks, reviews, and presentations with **senior engineers**
 
 ---
@@ -31,35 +31,77 @@ Aspiring AI Engineer | AI/ML | Data Analytics | Computer Vision | Python
 - Built an **LLM-powered question answering system** using **Qwen LLM**, **Hugging Face Transformers**, and **PyTorch**
 - Implemented **Retrieval-Augmented Generation (RAG)** with **BM25** over a **custom knowledge base**
 - Improved response quality using **prompt engineering** and **few-shot learning**
-- **Led the team end-to-end** to deliver a high-quality solution within strict timelines
+- **Led the team end-to-end** to deliver a high-quality solution within strict hackathon timelines
 
 ### **SmartPremium – Health Insurance Risk Prediction**
 - Worked with **10+ health metrics** from **wearable (Fitbit) data**
-- Generated **1,000+ synthetic records** using **Gaussian Copula**
+- Generated **1,000+ synthetic records** using **Gaussian Copula** for balanced training
 - Applied **K-Means**, **Logistic Regression**, and **Random Forest**
-- Achieved **94% accuracy**, enabling **data-driven decision making**
+- Achieved **94% accuracy**, enabling **data-driven insurance risk assessment**
 
 ### **Blinkit Data Analytics Dashboard**
 - Designed **Power BI dashboards** covering **Sales, Customers, Inventory, and Feedback**
 - Analyzed **5,000+ records** across multiple data types
-- Built **interactive filters**, **DAX measures**, and **year-over-year comparisons**
-- Delivered **actionable business insights**
+- Built **DAX measures**, **interactive filters**, and **year-over-year comparisons**
+- Delivered **actionable business insights** for operational decision-making
 
 ### **News Headline Driven Stock Sentiment Analysis**
-- Integrated **NY Times (Kaggle)** and **5 years of Wall Street Journal data** (**12,500+ records**, **25 features**)
-- Applied **sentiment extraction** using **VADER, TextBlob, NRCLex**
+- Integrated **NY Times (Kaggle)** and **5 years of Wall Street Journal data** (**12,500+ records**, **25 variables**)
+- Applied **sentiment extraction** using **VADER, TextBlob, NRCLex** with **feature engineering**
 - Trained **Random Forest, XGBoost**, and **LSTM (DistilBERT embeddings)**
-- Classified trends as **Bullish, Bearish, or Neutral** with **71% accuracy**
+- Classified market trends as **Bullish, Bearish, Neutral** with **71% prediction accuracy**
 
 ---
 
-## 🛠️ Skills 
+## 📄 Research & Publications
 
-**Programming:** Python  
-**AI / ML:** Machine Learning, NLP, Computer Vision, OCR, LLMs, RAG, Feature Engineering  
+### **AI-Driven Smart Contract Generation and Risk Management using LLM RAG and Blockchain** *(Ongoing)*
+- Researching **LLM-powered smart contract generation** using **Retrieval-Augmented Generation (RAG)**
+- Integrating **blockchain-based validation** to reduce **security vulnerabilities and financial risks**
+- Focused on **risk analysis, access control, and automation** in decentralized systems  
+🔗 *https://gitlab.computing.dcu.ie/lavesheknath.desai2/2026-mcm-laveshd/-/blob/master/README.md?ref_type=heads&plain=0*
+
+### **News Headline Driven Stock Sentiment Analysis**
+- Research on **NLP-based sentiment extraction**, **feature engineering**, and **ML models**
+- Output classified into **Bullish, Bearish, Neutral** market signals  
+🔗 *http://www.jetir.org/view?paper=JETIR2504857*
+
+---
+
+## 📜 Certifications
+- **Machine Learning A-Z : AI, Python & R +ChatGPT**
+- Credential ID: 18fd10c6-8777-44a2-a726-3f761dabd1f1
+  🔗 **https://drive.google.com/file/d/1bUWizyM_aDOIP99KWA8uxqPb0pzpCnIT/view?usp=sharing**
+  
+- **Aavishkar: Inter-Collegiate/ Institute/ Department Research Convention (Zonal Round)**
+-  **University of Mumbai**
+-  🔗 **https://drive.google.com/file/d/1CVw3_PxM2Hf0BQ9jbYUm3ZKWk_fncFgn/view?usp=drive_link**
+  
+---
+
+## 🤝 Volunteering & Leadership
+
+### **Student Council – Documentation Head** | *2023 – 2024*
+- Led **official documentation and reporting** for college-level events
+- Coordinated with **cross-functional teams** under strict timelines
+- Strengthened **organisation, planning, and communication skills**
+- 🔗 *https://drive.google.com/file/d/1AACxi96qRHZF7e_o4SL6E8_A6QiU_GxJ/view?usp=drive_link*
+
+### **Data Management Lead (MIS)** – Alegria: Festival of Joy | *2022 – 2024*
+- Managed **large-scale event data** using **Excel and Google Sheets**
+- Built **automated tracking systems** for real-time monitoring
+- Supported event operations through **data-driven planning**
+- 🔗 *https://drive.google.com/file/d/1AACxi96qRHZF7e_o4SL6E8_A6QiU_GxJ/view?usp=drive_link*
+
+---
+
+## 🛠️ Skills
+
+**Programming:** Python 
+**AI / ML:** Machine Learning, NLP, Computer Vision, OCR, LLMs, RAG, Feature Engineering, Model Evaluation, Data Preproessing 
 **Data & Analytics:** Data Analytics, Data Visualization, Power BI, SQL, PostgreSQL  
-**Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch, Hugging Face , Scikit-learn.
-**Software Practices:** Version Control (**Git**), **Testing & Evaluation**, **CI/CD Basics**, API Integration  
+**Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, PyTorch, Hugging Face  
+**Software Practices:** Version Control (**Git**), CI/CD Basics
 **Security Fundamentals:** Access Control, Vulnerability Awareness, Risk Concepts  
 **Professional Skills:** Problem Solving, Cross-Functional Collaboration, Team Leadership, Organisation & Planning, Time Management, Creativity, Continuous Learning  
 **Tools:** Excel, Google Sheets, Dashboard Design  
