@@ -148,7 +148,7 @@ Published AI Researcher | Python · ML · NLP · LLMs · RAG · Data Analytics
 <a href="https://linkedin.com/in/lavesh-desai-488918337" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@LoLLifeofLavesh" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a href="https://instagram.com/lavesh_._desai" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="mailto:laveshdesai05@gmail.com" target="_blank" rel="noopener">
+<a href="mailto:laveshdesai05@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
