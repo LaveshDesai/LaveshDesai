@@ -6,6 +6,12 @@ Published AI Researcher | Python · ML · NLP · LLMs · RAG · Data Analytics
 </h3>
 
 ---
+<p align="center">
+  <a href="https://drive.google.com/file/d/1FfJDgLHbGMI5-mR4aOxK25iA6SuG33WL/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20My%20CV-blue?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+</p>
+
 
 ## 🙋‍♂️ About Me:
 
